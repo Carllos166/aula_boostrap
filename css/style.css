@@ -1,0 +1,30 @@
+* {
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font: 20px arial, sans-serif;
+}
+
+.navbar {
+    background-color: #FFA07A;
+}
+
+.container-fluid {
+    background-color: #ffffff ;
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.titulo {
+    padding: 30px;
+    
+}
+
+.rounded-circle {
+    width: auto;
+    height: auto;
+}
+
+h3 {
+    color: #FFA07A;
+}
