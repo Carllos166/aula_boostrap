@@ -33,5 +33,13 @@ h3 {
     background-color: #FFA07A;
     color: white;
     padding: 30px;
-    
+}
+
+.col-md-4 {
+
+}
+
+.img-receitas {
+    float: left;
+    width: 50%;
 }
